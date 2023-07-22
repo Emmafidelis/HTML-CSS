@@ -1,0 +1,16 @@
+/* Relational selector */
+
+ #products > p {
+  color: orange;
+  margin: 10px;
+} 
+
+ #products + p {
+  color: orange;
+  margin: 10px;
+} 
+
+#products ~ p {
+  color: orange;
+  margin: 10px;
+}

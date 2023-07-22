@@ -1,0 +1,58 @@
+/* :root {
+  --color-primary: #ffdd36;
+  --border-size: 2px;
+  --border-radius: 10px;
+}
+
+
+.one {
+  background: var(--color-primary);
+} */
+
+/*
+ .btn {
+  background: gold;
+  border: 0;
+  border-radius: 30px;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  padding: 1rem 2rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.hero {
+  margin-bottom: 1rem;
+} 
+*/
+
+a:visited, a:link {
+  color: dodgerblue;
+}
+
+ul li:nth-child(even) {
+  color: deeppink;
+}
+
+h1 {
+  color: dodgerblue;
+}
+
+.highlight {
+  color: deeppink;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  /* background: linear-gradient(to bottom right, dodgerblue, yellow); */
+  /* background: linear-gradient(45deg, dodgerblue, yellow); */
+  /* background: linear-gradient(45deg, dodgerblue, yellow 60%, tomato); */
+  /* background: radial-gradient(dodgerblue, yellow, tomato); */
+  background: dodgerblue;
+  border: 10px dashed royalblue;
+  border-width: 10px;
+  border-radius: 100%;
+
+}
+
+
+
